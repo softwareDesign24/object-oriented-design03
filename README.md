@@ -6,7 +6,7 @@
 
 ## Παράδειγμα
 
-- [ ] Ο [...](./example_theParthenon) (Strategy version)
+- [ ] [Μεταφραστής](./example_translator) (Strategy version)
 
 ### Ενδεικτικές πηγές για περαιτέρω μελέτη:
 - [ ] [Automated refactoring to the Strategy design pattern](https://www2.aueb.gr/users/bzafiris/docs/cgzs12.pdf)
